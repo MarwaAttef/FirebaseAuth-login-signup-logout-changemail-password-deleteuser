@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "303074961789",
+    "firebase_url": "https://fir-auth-7abe9.firebaseio.com",
+    "project_id": "fir-auth-7abe9",
+    "storage_bucket": "fir-auth-7abe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303074961789:android:4e5293cf52d142fa",
+        "android_client_info": {
+          "package_name": "com.example.marwa.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303074961789-c1sncv3j6ld532stvruqh81b41fkv3a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvORynTGuovk8bAMLedkBfyS9-BIZ3NqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
